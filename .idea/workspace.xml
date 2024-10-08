@@ -28,15 +28,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.01_data_types.executor": "Run",
-    "Python.02_center_point.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/GitHub/python-fundamentals-home-work"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.01_data_types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_center_point.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/GitHub/python-fundamentals-home-work&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.02_center_point">
     <configuration name="01_data_types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-fundamentals-home-work" />
